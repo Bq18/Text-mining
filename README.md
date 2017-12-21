@@ -1,3 +1,2 @@
 # Text-mining
-The project is composed with 3 parts. Part1 is to preprocess data and convert in to TF-IDF matrix. Part2 is to do clustering analysis. Part3 is
-to do classifcation analysis.
+The project is composed of 3 parts. Part1 in com/company is to preprocess data and convert corpus into TF-IDF matrix. Part2 in src/clustering is to do clustering analysis. Part3 in src/classfication is to do classifcation analysis.
